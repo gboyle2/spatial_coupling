@@ -1,0 +1,96 @@
+LOCUS       AF117241                1701 bp    RNA     linear   VRL 11-OCT-2000
+DEFINITION  Influenza A virus (A/South Carolina/1/18 (H1N1)) hemagglutinin
+            gene, complete cds.
+ACCESSION   AF117241 U94890 U94891 U94892
+VERSION     AF117241.1
+KEYWORDS    .
+SOURCE      Influenza A virus (A/South Carolina/1/1918(H1N1))
+  ORGANISM  Influenza A virus (A/South Carolina/1/1918(H1N1))
+            Viruses; ssRNA viruses; ssRNA negative-strand viruses;
+            Orthomyxoviridae; Influenzavirus A.
+REFERENCE   1  (bases 1 to 154; 357 to 485; 948 to 1041)
+  AUTHORS   Taubenberger,J.K., Reid,A.H., Krafft,A.E., Bijwaard,K.E. and
+            Fanning,T.G.
+  TITLE     Initial genetic characterization of the 1918 'Spanish' influenza
+            virus
+  JOURNAL   Science 275 (5307), 1793-1796 (1997)
+   PUBMED   9065404
+REFERENCE   2  (bases 1 to 1701)
+  AUTHORS   Reid,A.H., Fanning,T.G., Hultin,J.V. and Taubenberger,J.K.
+  TITLE     Origin and evolution of the 1918 'Spanish' influenza virus
+            hemagglutinin gene
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 96 (4), 1651-1656 (1999)
+   PUBMED   9990079
+REFERENCE   3  (bases 1 to 154; 357 to 485; 948 to 1041)
+  AUTHORS   Taubenberger,J.K., Reid,A.H., Krafft,A.E., Bijwaard,K.E. and
+            Fanning,T.G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-MAR-1997) Cellular Pathology, Armed Forces Institute
+            of Pathology, 14th Street and Alaska Avenue, NW, Washington, DC
+            20306-6000, USA
+REFERENCE   4  (bases 1 to 1701)
+  AUTHORS   Reid,A.H., Fanning,T.G., Hultin,J.V. and Taubenberger,J.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-DEC-1998) Cellular Pathology, Armed Forces Institute
+            of Pathology, 14th Street and Alaska Avenue, N.W., Washington, DC
+            20306-6000, USA
+COMMENT     On or before Oct 11, 2000 this sequence version replaced U94890.1,
+            U94891.1, U94892.1.
+FEATURES             Location/Qualifiers
+     source          1..1701
+                     /organism="Influenza A virus (A/South
+                     Carolina/1/1918(H1N1))"
+                     /mol_type="genomic RNA"
+                     /strain="A/South Carolina/1/18 (H1N1)"
+                     /db_xref="taxon:59375"
+     CDS             1..1701
+                     /codon_start=1
+                     /product="hemagglutinin"
+                     /protein_id="AAD17229.1"
+                     /translation="MEARLLVLLCAFAATNADTICIGYHANNSTDTVDTVLEKNVTVT
+                     HSVNLLEDSHNGKLCKLKGIAPLQLGKCNIAGWLLGNPECDLLLTASSWSYIVETSNS
+                     ENGTCYPGDFIDYEELREQLSSVSSFEKFEIFPKTSSWPNHETTKGVTAACSYAGASS
+                     FYRNLLWLTKKGSSYPKLSKSYVNNKGKEVLVLWGVHHPPTGTDQQSLYQNADAYVSV
+                     GSSKYNRRFTPEIAARPKVRDQAGRMNYYWTLLEPGDTITFEATGNLIAPWYAFALNR
+                     GSGSGIITSDAPVHDCNTKCQTPHGAINSSLPFQNIHPVTIGECPKYVRSTKLRMATG
+                     LRNIPSIQSRGLFGAIAGFIEGGWTGMIDGWYGYHHQNEQGSGYAADQKSTQNAIDGI
+                     TNKVNSVIEKMNTQFTAVGKEFNNLERRIENLNKKVDDGFLDIWTYNAELLVLLENER
+                     TLDFHDSNVRNLYEKVKSQLKNNAKEIGNGCFEFYHKCDDACMESVRNGTYDYPKYSE
+                     ESKLNREEIDGVKLESMGVYQILAIYSTVASSLVLLVSLGAISFWMCSNGSLQCRICI
+                     "
+     misc_feature    52..1029
+                     /note="encodes HA1 domain"
+     misc_feature    1033..1698
+                     /note="encodes HA2 domain"
+ORIGIN      
+        1 atggaggcaa gactactggt cttgttatgt gcatttgcag ctacaaatgc agacacaata
+       61 tgtataggct accatgcgaa taactcaacc gacactgttg acacagtact cgaaaagaat
+      121 gtgaccgtga cacactctgt taacctgctc gaagacagcc acaacggaaa actatgtaaa
+      181 ttaaaaggaa tagccccatt acaattgggg aaatgtaata tcgccggatg gctcttggga
+      241 aacccggaat gcgatttact gctcacagcg agctcatggt cctatattgt agaaacatcg
+      301 aactcagaga atggaacatg ttacccagga gatttcatcg actatgaaga actgagggag
+      361 caattgagct cagtgtcatc gtttgaaaaa ttcgaaatat ttcccaagac aagctcgtgg
+      421 cccaatcatg aaacaaccaa aggtgtaacg gcagcatgct cctatgcggg agcaagcagt
+      481 ttttacagaa atttgctgtg gctgacaaag aagggaagct catacccaaa gcttagcaag
+      541 tcctatgtga acaataaagg gaaagaagtc cttgtactat ggggtgttca tcatccgcct
+      601 accggtactg atcaacagag tctctatcag aatgcagatg cttatgtctc tgtagggtca
+      661 tcaaaatata acaggagatt caccccggaa atagcagcga gacccaaagt aagagatcaa
+      721 gctgggagga tgaactatta ctggacatta ctagaacccg gagacacaat aacatttgag
+      781 gcaactggaa atctaatagc accatggtat gctttcgcac tgaatagagg ttctggatcc
+      841 ggtatcatca cttcagacgc accagtgcat gattgtaaca cgaagtgtca aacaccccat
+      901 ggtgctataa acagcagtct ccctttccag aatatacatc cagtcacaat aggagagtgc
+      961 ccaaaatacg tcaggagtac caaattgagg atggctacag gactaagaaa cattccatct
+     1021 attcaatcca ggggtctatt tggagccatt gccggtttta ttgagggggg atggactgga
+     1081 atgatagatg gatggtatgg ttatcatcat cagaatgaac agggatcagg ctatgcagcg
+     1141 gatcaaaaaa gcacacaaaa tgccattgac gggattacaa acaaggtgaa ttctgttatc
+     1201 gagaaaatga acacccaatt cacagcagtg ggtaaagaat tcaacaactt agaaagaagg
+     1261 atagaaaatt taaataaaaa agtcgatgat ggatttctgg atatttggac atataatgca
+     1321 gaattgttag ttctactgga aaatgaaaga accctggatt tccatgactc aaatgtaagg
+     1381 aatctgtatg agaaagtaaa aagccaatta aagaataatg ccaaggaaat cggaaatgga
+     1441 tgttttgagt tctaccacaa gtgtgacgat gcatgcatgg aaagtgtaag aaatgggact
+     1501 tatgattacc caaaatattc agaagaatca aagttgaaca gagaagaaat agatggagtg
+     1561 aaattagaat caatgggggt ctatcagatt ctggcgatct actcaactgt cgccagttca
+     1621 ctagtgctgt tagtctccct gggggcaatc agcttctgga tgtgttctaa tgggtctttg
+     1681 cagtgcagaa tatgcatttg a
+//
+
