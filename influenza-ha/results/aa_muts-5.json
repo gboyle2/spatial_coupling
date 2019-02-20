@@ -1,0 +1,996 @@
+{
+ "annotations": {
+  "nuc": {
+   "end": 1701,
+   "start": 0,
+   "strand": 1
+  }
+ },
+ "nodes": {
+  "AB434103|A/Morioka/27/2002": {
+   "aa_muts": {}
+  },
+  "AF117241|A/South_Carolina/1/18": {
+   "aa_muts": {}
+  },
+  "AF386777|A/Hong_Kong/1035/98": {
+   "aa_muts": {}
+  },
+  "AF386778|A/Hong_Kong/1035/98": {
+   "aa_muts": {}
+  },
+  "AF386780|A/Hong_Kong/1134/98": {
+   "aa_muts": {}
+  },
+  "AF389118|A/Puerto_Rico/8/34/Mount_Sinai": {
+   "aa_muts": {}
+  },
+  "AY282757|A/Memphis/14/96_M1": {
+   "aa_muts": {}
+  },
+  "AY289927|A/Texas/36/91": {
+   "aa_muts": {}
+  },
+  "AY289928|A/Beijing/262/95": {
+   "aa_muts": {}
+  },
+  "AY289929|A/New_Caledonia/20/1999": {
+   "aa_muts": {}
+  },
+  "CY003472|A/New_York/443/2001": {
+   "aa_muts": {}
+  },
+  "CY006675|A/New_York/494/2002": {
+   "aa_muts": {}
+  },
+  "CY006915|A/New_York/488/2003": {
+   "aa_muts": {}
+  },
+  "CY007467|A/Canterbury/106/2004": {
+   "aa_muts": {}
+  },
+  "CY009276|A/Bel/1942": {
+   "aa_muts": {}
+  },
+  "CY009284|A/USSR/92/1977": {
+   "aa_muts": {}
+  },
+  "CY009316|A/Texas/36/91": {
+   "aa_muts": {}
+  },
+  "CY009324|A/Melbourne/1935": {
+   "aa_muts": {}
+  },
+  "CY009332|A/Fort_Warren/1/1950": {
+   "aa_muts": {}
+  },
+  "CY009452|A/Weiss/43": {
+   "aa_muts": {}
+  },
+  "CY009596|A/Cam/46": {
+   "aa_muts": {}
+  },
+  "CY009604|A/Wilson_Smith/1933": {
+   "aa_muts": {}
+  },
+  "CY009612|A/Fort_Monmouth/1/1947": {
+   "aa_muts": {}
+  },
+  "CY009620|A/Baylor/11735/1982": {
+   "aa_muts": {}
+  },
+  "CY009764|A/Canterbury/7/2000": {
+   "aa_muts": {}
+  },
+  "CY010108|A/Canterbury/51/2000": {
+   "aa_muts": {}
+  },
+  "CY010364|A/Baylor/11515/1982": {
+   "aa_muts": {}
+  },
+  "CY010476|A/Canterbury/106/2001": {
+   "aa_muts": {}
+  },
+  "CY010804|A/New_York/614/1995": {
+   "aa_muts": {}
+  },
+  "CY010828|A/New_York/651/1995": {
+   "aa_muts": {}
+  },
+  "CY010884|A/Memphis/13/1978": {
+   "aa_muts": {}
+  },
+  "CY010892|A/Memphis/15/1978": {
+   "aa_muts": {}
+  },
+  "CY010900|A/Memphis/17/1978": {
+   "aa_muts": {}
+  },
+  "CY010908|A/Memphis/7/1980": {
+   "aa_muts": {}
+  },
+  "CY011072|A/West_Coast/31/2001": {
+   "aa_muts": {}
+  },
+  "CY011152|A/Wellington/1/2001": {
+   "aa_muts": {}
+  },
+  "CY011296|A/Memphis/1/1978": {
+   "aa_muts": {}
+  },
+  "CY011792|A/New_York/626/1996": {
+   "aa_muts": {}
+  },
+  "CY012864|A/New_York/642/1995": {
+   "aa_muts": {}
+  },
+  "CY012888|A/Memphis/2/1983": {
+   "aa_muts": {}
+  },
+  "CY013271|A/Hickox/1940": {
+   "aa_muts": {}
+  },
+  "CY013581|A/Waikato/13/2005": {
+   "aa_muts": {}
+  },
+  "CY015532|A/New_York/694/1995": {
+   "aa_muts": {}
+  },
+  "CY016252|A/Nanchang/25/1996": {
+   "aa_muts": {}
+  },
+  "CY016643|A/New_South_Wales/18/1999": {
+   "aa_muts": {}
+  },
+  "CY017243|A/Memphis/30/1983": {
+   "aa_muts": {}
+  },
+  "CY017371|A/New_York/8/2006": {
+   "aa_muts": {}
+  },
+  "CY017379|A/South_Australia/26/2000": {
+   "aa_muts": {}
+  },
+  "CY017813|A/South_Australia/30/2000": {
+   "aa_muts": {}
+  },
+  "CY019085|A/Memphis/50/1983": {
+   "aa_muts": {}
+  },
+  "CY019101|A/Memphis/12/1986": {
+   "aa_muts": {}
+  },
+  "CY019109|A/Memphis/2/1996": {
+   "aa_muts": {}
+  },
+  "CY019221|A/Memphis/31/1983": {
+   "aa_muts": {}
+  },
+  "CY019739|A/Memphis/1/1979": {
+   "aa_muts": {}
+  },
+  "CY019771|A/Memphis/3/1987": {
+   "aa_muts": {}
+  },
+  "CY019779|A/Memphis/4/1987": {
+   "aa_muts": {}
+  },
+  "CY019795|A/Memphis/10/1996": {
+   "aa_muts": {}
+  },
+  "CY019947|A/Albany/4835/1948": {
+   "aa_muts": {}
+  },
+  "CY019955|A/Alaska/1935": {
+   "aa_muts": {}
+  },
+  "CY019971|A/Roma/1949": {
+   "aa_muts": {}
+  },
+  "CY020181|A/Maryland/2/1980": {
+   "aa_muts": {}
+  },
+  "CY020285|A/AA/Marton/1943": {
+   "aa_muts": {}
+  },
+  "CY020293|A/Brazil/11/1978": {
+   "aa_muts": {}
+  },
+  "CY020445|A/Henry/1936": {
+   "aa_muts": {}
+  },
+  "CY020453|A/India/6263/1980": {
+   "aa_muts": {}
+  },
+  "CY020461|A/Iowa/1943": {
+   "aa_muts": {}
+  },
+  "CY020469|A/Phila/1935": {
+   "aa_muts": {}
+  },
+  "CY020477|A/Singapore/6/1986": {
+   "aa_muts": {}
+  },
+  "CY020485|A/Tonga/14/1984": {
+   "aa_muts": {}
+  },
+  "CY020565|A/Texas/2922_3/1986": {
+   "aa_muts": {}
+  },
+  "CY021029|A/Baylor/4052/1981": {
+   "aa_muts": {}
+  },
+  "CY021037|A/Christs_Hospital/157/1982": {
+   "aa_muts": {}
+  },
+  "CY021053|A/Malaya/302/1954": {
+   "aa_muts": {}
+  },
+  "CY021701|A/Albany/4836/1950": {
+   "aa_muts": {}
+  },
+  "CY021709|A/AA/Huston/1945": {
+   "aa_muts": {}
+  },
+  "CY021725|A/Memphis/1/1984": {
+   "aa_muts": {}
+  },
+  "CY021733|A/New_York/2924_1/1986": {
+   "aa_muts": {}
+  },
+  "CY021821|A/Albany/12/1951": {
+   "aa_muts": {}
+  },
+  "CY021901|A/Albany/1618/1951": {
+   "aa_muts": {}
+  },
+  "CY021909|A/USSR/46/1979": {
+   "aa_muts": {}
+  },
+  "CY021973|A/Memphis/1/1987": {
+   "aa_muts": {}
+  },
+  "CY022485|A/Auckland/586/2000": {
+   "aa_muts": {}
+  },
+  "CY026411|A/Albany/8/1979": {
+   "aa_muts": {}
+  },
+  "CY027635|A/Tennessee/UR06_0388/2007": {
+   "aa_muts": {}
+  },
+  "CY027691|A/Oregon/UR06_0179/2007": {
+   "aa_muts": {}
+  },
+  "CY031336|A/New_Caledonia/20/1999": {
+   "aa_muts": {}
+  },
+  "CY033655|A/Texas/36/1991": {
+   "aa_muts": {}
+  },
+  "CY036823|A/Siena/10/1989": {
+   "aa_muts": {}
+  },
+  "CY036943|A/Siena/9/1989": {
+   "aa_muts": {}
+  },
+  "CY040154|A/Taiwan/123/2002": {
+   "aa_muts": {}
+  },
+  "CY040170|A/Puerto_Rico/8_SV14/1934": {
+   "aa_muts": {}
+  },
+  "CY043465|A/Nagasaki/07N005/2008": {
+   "aa_muts": {}
+  },
+  "CY045772|A/Melbourne/1/1946": {
+   "aa_muts": {}
+  },
+  "CY045780|A/Fort_Monmouth/1/1947": {
+   "aa_muts": {}
+  },
+  "CY045852|A/Siena/4/1987": {
+   "aa_muts": {}
+  },
+  "CY077719|A/Netherlands/001G1/1950": {
+   "aa_muts": {}
+  },
+  "CY077725|A/Netherlands/001H1/1954": {
+   "aa_muts": {}
+  },
+  "CY077748|A/Netherlands/001R1/1953": {
+   "aa_muts": {}
+  },
+  "CY077763|A/Netherlands/002K1/1949": {
+   "aa_muts": {}
+  },
+  "CY077768|A/Netherlands/002P1/1951": {
+   "aa_muts": {}
+  },
+  "CY077889|A/Liverpool/1951": {
+   "aa_muts": {}
+  },
+  "CY087784|A/Fort_Monmouth/1_MA/1947": {
+   "aa_muts": {}
+  },
+  "CY090845|A/United_Kingdom/1_MA/1933": {
+   "aa_muts": {}
+  },
+  "CY096811|A/bh/1935": {
+   "aa_muts": {}
+  },
+  "CY104044|A/HaNoi/HN1024/2003": {
+   "aa_muts": {}
+  },
+  "CY104068|A/TayNguyen/TN101/2003": {
+   "aa_muts": {}
+  },
+  "CY104710|A/HaNoi/BM870/2003": {
+   "aa_muts": {}
+  },
+  "CY105222|A/HaNoi/BM857/2003": {
+   "aa_muts": {}
+  },
+  "CY117744|A/Malaysia/12530/1997": {
+   "aa_muts": {}
+  },
+  "CY119066|A/Malaysia/11641/1997": {
+   "aa_muts": {}
+  },
+  "CY119122|A/Malaysia/15042/1998": {
+   "aa_muts": {}
+  },
+  "CY119154|A/Malaysia/30025/2004": {
+   "aa_muts": {}
+  },
+  "CY119234|A/Malaysia/1715991/2007": {
+   "aa_muts": {}
+  },
+  "CY121261|A/Chile/1/1983": {
+   "aa_muts": {}
+  },
+  "CY125012|A/Nanchang/16A/1999": {
+   "aa_muts": {}
+  },
+  "CY125036|A/Wellington/47/1992": {
+   "aa_muts": {}
+  },
+  "CY125044|A/Florida/2/1993": {
+   "aa_muts": {}
+  },
+  "CY125076|A/Shanghai/2/1997": {
+   "aa_muts": {}
+  },
+  "CY125084|A/Moscow/13/1998": {
+   "aa_muts": {}
+  },
+  "CY125140|A/Chile/8885/2001": {
+   "aa_muts": {}
+  },
+  "CY125196|A/Canada/591/2004": {
+   "aa_muts": {}
+  },
+  "CY125862|A/Kw/1/1957": {
+   "aa_muts": {}
+  },
+  "CY146769|A/Bellamy/JY2/1942": {
+   "aa_muts": {}
+  },
+  "CY146777|A/Hickox/JY2/1940": {
+   "aa_muts": {}
+  },
+  "CY146793|A/Denver/JY2/1957": {
+   "aa_muts": {}
+  },
+  "CY146825|A/Puerto_Rico/8_LVD1/1934": {
+   "aa_muts": {}
+  },
+  "CY147326|A/BH/JY2/1935": {
+   "aa_muts": {}
+  },
+  "CY147334|A/Fort_Warren/50_JY2/1950": {
+   "aa_muts": {}
+  },
+  "CY147350|A/Cameron/JY2/1946": {
+   "aa_muts": {}
+  },
+  "CY147358|A/Roma/JY2/1949": {
+   "aa_muts": {}
+  },
+  "CY147366|A/Weiss/JY2/1943": {
+   "aa_muts": {}
+  },
+  "CY147374|A/FLW/1951": {
+   "aa_muts": {}
+  },
+  "CY147382|A/Texas/36_JY2/1991": {
+   "aa_muts": {}
+  },
+  "CY163544|A/Brisbane/59/2007": {
+   "aa_muts": {}
+  },
+  "D13573|A/Suita/1/1989": {
+   "aa_muts": {}
+  },
+  "DQ249260|A/Taiwan/2985/2002": {
+   "aa_muts": {}
+  },
+  "DQ415317|A/TW/3355/97": {
+   "aa_muts": {}
+  },
+  "DQ508857|A/New_Caledonia/20/1999": {
+   "aa_muts": {}
+  },
+  "DQ508873|A/Taiwan/01/1986": {
+   "aa_muts": {}
+  },
+  "DQ508889|A/Texas/36/1991": {
+   "aa_muts": {}
+  },
+  "DQ508897|A/USSR/90/1977": {
+   "aa_muts": {}
+  },
+  "DQ889689|A/Iowa/CEID23/2005": {
+   "aa_muts": {}
+  },
+  "EU097944|A/Denmark/116/2005": {
+   "aa_muts": {}
+  },
+  "EU097948|A/Denmark/16/2004": {
+   "aa_muts": {}
+  },
+  "EU100704|A/Florida/09/2006": {
+   "aa_muts": {}
+  },
+  "EU100724|A/Solomon_Islands/03/2006": {
+   "aa_muts": {}
+  },
+  "EU382982|A/Guangzhou/506/2006": {
+   "aa_muts": {}
+  },
+  "EU516059|A/Hawaii/16/2007": {
+   "aa_muts": {}
+  },
+  "EU516329|A/HongKong/CUHK_13003/2002": {
+   "aa_muts": {}
+  },
+  "EU566989|A/New_Mexico/01/2008": {
+   "aa_muts": {}
+  },
+  "EU851981|A/Hawaii/02/2008": {
+   "aa_muts": {}
+  },
+  "FJ231763|A/Bremen/4/2005": {
+   "aa_muts": {}
+  },
+  "FJ549060|A/Missouri/06/2008": {
+   "aa_muts": {}
+  },
+  "FJ686954|A/Wisconsin/17/2008": {
+   "aa_muts": {}
+  },
+  "HE802059|A/WSN/1933": {
+   "aa_muts": {}
+  },
+  "HQ291872|A/Taiwan/5524/2005": {
+   "aa_muts": {}
+  },
+  "HQ291878|A/Taiwan/5505/2006": {
+   "aa_muts": {}
+  },
+  "JN540082|A/USA/L3/1947": {
+   "aa_muts": {}
+  },
+  "JN676132|A/Thailand/Siriraj_Rama_TT/2004": {
+   "aa_muts": {}
+  },
+  "JX477159|A/Florida/2/1993": {
+   "aa_muts": {}
+  },
+  "JX477162|A/Shanghai/2/1997": {
+   "aa_muts": {}
+  },
+  "JX477163|A/Victoria/36/1988": {
+   "aa_muts": {}
+  },
+  "JX477164|A/Wellington/47/1992": {
+   "aa_muts": {}
+  },
+  "M38312|A/Leningrad/1954/1": {
+   "aa_muts": {}
+  },
+  "M38353|A/Kiev/59/1979": {
+   "aa_muts": {}
+  },
+  "MH785011|A/Puerto_Rico/8/1934": {
+   "aa_muts": {}
+  },
+  "NODE_0000000": {
+   "aa_muts": {}
+  },
+  "NODE_0000001": {
+   "aa_muts": {}
+  },
+  "NODE_0000002": {
+   "aa_muts": {}
+  },
+  "NODE_0000003": {
+   "aa_muts": {}
+  },
+  "NODE_0000004": {
+   "aa_muts": {}
+  },
+  "NODE_0000005": {
+   "aa_muts": {}
+  },
+  "NODE_0000006": {
+   "aa_muts": {}
+  },
+  "NODE_0000007": {
+   "aa_muts": {}
+  },
+  "NODE_0000008": {
+   "aa_muts": {}
+  },
+  "NODE_0000009": {
+   "aa_muts": {}
+  },
+  "NODE_0000010": {
+   "aa_muts": {}
+  },
+  "NODE_0000011": {
+   "aa_muts": {}
+  },
+  "NODE_0000012": {
+   "aa_muts": {}
+  },
+  "NODE_0000013": {
+   "aa_muts": {}
+  },
+  "NODE_0000014": {
+   "aa_muts": {}
+  },
+  "NODE_0000015": {
+   "aa_muts": {}
+  },
+  "NODE_0000016": {
+   "aa_muts": {}
+  },
+  "NODE_0000017": {
+   "aa_muts": {}
+  },
+  "NODE_0000018": {
+   "aa_muts": {}
+  },
+  "NODE_0000019": {
+   "aa_muts": {}
+  },
+  "NODE_0000020": {
+   "aa_muts": {}
+  },
+  "NODE_0000021": {
+   "aa_muts": {}
+  },
+  "NODE_0000022": {
+   "aa_muts": {}
+  },
+  "NODE_0000025": {
+   "aa_muts": {}
+  },
+  "NODE_0000026": {
+   "aa_muts": {}
+  },
+  "NODE_0000027": {
+   "aa_muts": {}
+  },
+  "NODE_0000028": {
+   "aa_muts": {}
+  },
+  "NODE_0000029": {
+   "aa_muts": {}
+  },
+  "NODE_0000030": {
+   "aa_muts": {}
+  },
+  "NODE_0000031": {
+   "aa_muts": {}
+  },
+  "NODE_0000032": {
+   "aa_muts": {}
+  },
+  "NODE_0000033": {
+   "aa_muts": {}
+  },
+  "NODE_0000034": {
+   "aa_muts": {}
+  },
+  "NODE_0000035": {
+   "aa_muts": {}
+  },
+  "NODE_0000036": {
+   "aa_muts": {}
+  },
+  "NODE_0000037": {
+   "aa_muts": {}
+  },
+  "NODE_0000038": {
+   "aa_muts": {}
+  },
+  "NODE_0000039": {
+   "aa_muts": {}
+  },
+  "NODE_0000041": {
+   "aa_muts": {}
+  },
+  "NODE_0000042": {
+   "aa_muts": {}
+  },
+  "NODE_0000044": {
+   "aa_muts": {}
+  },
+  "NODE_0000045": {
+   "aa_muts": {}
+  },
+  "NODE_0000046": {
+   "aa_muts": {}
+  },
+  "NODE_0000047": {
+   "aa_muts": {}
+  },
+  "NODE_0000048": {
+   "aa_muts": {}
+  },
+  "NODE_0000049": {
+   "aa_muts": {}
+  },
+  "NODE_0000050": {
+   "aa_muts": {}
+  },
+  "NODE_0000051": {
+   "aa_muts": {}
+  },
+  "NODE_0000052": {
+   "aa_muts": {}
+  },
+  "NODE_0000053": {
+   "aa_muts": {}
+  },
+  "NODE_0000054": {
+   "aa_muts": {}
+  },
+  "NODE_0000055": {
+   "aa_muts": {}
+  },
+  "NODE_0000056": {
+   "aa_muts": {}
+  },
+  "NODE_0000058": {
+   "aa_muts": {}
+  },
+  "NODE_0000061": {
+   "aa_muts": {}
+  },
+  "NODE_0000063": {
+   "aa_muts": {}
+  },
+  "NODE_0000065": {
+   "aa_muts": {}
+  },
+  "NODE_0000066": {
+   "aa_muts": {}
+  },
+  "NODE_0000067": {
+   "aa_muts": {}
+  },
+  "NODE_0000068": {
+   "aa_muts": {}
+  },
+  "NODE_0000069": {
+   "aa_muts": {}
+  },
+  "NODE_0000070": {
+   "aa_muts": {}
+  },
+  "NODE_0000071": {
+   "aa_muts": {}
+  },
+  "NODE_0000073": {
+   "aa_muts": {}
+  },
+  "NODE_0000074": {
+   "aa_muts": {}
+  },
+  "NODE_0000075": {
+   "aa_muts": {}
+  },
+  "NODE_0000076": {
+   "aa_muts": {}
+  },
+  "NODE_0000077": {
+   "aa_muts": {}
+  },
+  "NODE_0000079": {
+   "aa_muts": {}
+  },
+  "NODE_0000080": {
+   "aa_muts": {}
+  },
+  "NODE_0000081": {
+   "aa_muts": {}
+  },
+  "NODE_0000082": {
+   "aa_muts": {}
+  },
+  "NODE_0000083": {
+   "aa_muts": {}
+  },
+  "NODE_0000085": {
+   "aa_muts": {}
+  },
+  "NODE_0000086": {
+   "aa_muts": {}
+  },
+  "NODE_0000087": {
+   "aa_muts": {}
+  },
+  "NODE_0000088": {
+   "aa_muts": {}
+  },
+  "NODE_0000089": {
+   "aa_muts": {}
+  },
+  "NODE_0000090": {
+   "aa_muts": {}
+  },
+  "NODE_0000091": {
+   "aa_muts": {}
+  },
+  "NODE_0000092": {
+   "aa_muts": {}
+  },
+  "NODE_0000093": {
+   "aa_muts": {}
+  },
+  "NODE_0000094": {
+   "aa_muts": {}
+  },
+  "NODE_0000095": {
+   "aa_muts": {}
+  },
+  "NODE_0000096": {
+   "aa_muts": {}
+  },
+  "NODE_0000097": {
+   "aa_muts": {}
+  },
+  "NODE_0000099": {
+   "aa_muts": {}
+  },
+  "NODE_0000100": {
+   "aa_muts": {}
+  },
+  "NODE_0000101": {
+   "aa_muts": {}
+  },
+  "NODE_0000102": {
+   "aa_muts": {}
+  },
+  "NODE_0000103": {
+   "aa_muts": {}
+  },
+  "NODE_0000104": {
+   "aa_muts": {}
+  },
+  "NODE_0000105": {
+   "aa_muts": {}
+  },
+  "NODE_0000106": {
+   "aa_muts": {}
+  },
+  "NODE_0000107": {
+   "aa_muts": {}
+  },
+  "NODE_0000108": {
+   "aa_muts": {}
+  },
+  "NODE_0000111": {
+   "aa_muts": {}
+  },
+  "NODE_0000112": {
+   "aa_muts": {}
+  },
+  "NODE_0000114": {
+   "aa_muts": {}
+  },
+  "NODE_0000115": {
+   "aa_muts": {}
+  },
+  "NODE_0000116": {
+   "aa_muts": {}
+  },
+  "NODE_0000117": {
+   "aa_muts": {}
+  },
+  "NODE_0000118": {
+   "aa_muts": {}
+  },
+  "NODE_0000119": {
+   "aa_muts": {}
+  },
+  "NODE_0000120": {
+   "aa_muts": {}
+  },
+  "NODE_0000122": {
+   "aa_muts": {}
+  },
+  "NODE_0000123": {
+   "aa_muts": {}
+  },
+  "NODE_0000124": {
+   "aa_muts": {}
+  },
+  "NODE_0000125": {
+   "aa_muts": {}
+  },
+  "NODE_0000126": {
+   "aa_muts": {}
+  },
+  "NODE_0000128": {
+   "aa_muts": {}
+  },
+  "NODE_0000129": {
+   "aa_muts": {}
+  },
+  "NODE_0000130": {
+   "aa_muts": {}
+  },
+  "NODE_0000131": {
+   "aa_muts": {}
+  },
+  "NODE_0000132": {
+   "aa_muts": {}
+  },
+  "NODE_0000133": {
+   "aa_muts": {}
+  },
+  "NODE_0000134": {
+   "aa_muts": {}
+  },
+  "NODE_0000136": {
+   "aa_muts": {}
+  },
+  "NODE_0000137": {
+   "aa_muts": {}
+  },
+  "NODE_0000138": {
+   "aa_muts": {}
+  },
+  "NODE_0000139": {
+   "aa_muts": {}
+  },
+  "NODE_0000140": {
+   "aa_muts": {}
+  },
+  "NODE_0000141": {
+   "aa_muts": {}
+  },
+  "NODE_0000142": {
+   "aa_muts": {}
+  },
+  "NODE_0000143": {
+   "aa_muts": {}
+  },
+  "NODE_0000144": {
+   "aa_muts": {}
+  },
+  "NODE_0000146": {
+   "aa_muts": {}
+  },
+  "NODE_0000147": {
+   "aa_muts": {}
+  },
+  "NODE_0000149": {
+   "aa_muts": {}
+  },
+  "NODE_0000150": {
+   "aa_muts": {}
+  },
+  "NODE_0000151": {
+   "aa_muts": {}
+  },
+  "NODE_0000152": {
+   "aa_muts": {}
+  },
+  "NODE_0000153": {
+   "aa_muts": {}
+  },
+  "NODE_0000155": {
+   "aa_muts": {}
+  },
+  "NODE_0000160": {
+   "aa_muts": {}
+  },
+  "NODE_0000161": {
+   "aa_muts": {}
+  },
+  "NODE_0000162": {
+   "aa_muts": {}
+  },
+  "NODE_0000163": {
+   "aa_muts": {}
+  },
+  "NODE_0000164": {
+   "aa_muts": {}
+  },
+  "NODE_0000165": {
+   "aa_muts": {}
+  },
+  "NODE_0000168": {
+   "aa_muts": {}
+  },
+  "NODE_0000170": {
+   "aa_muts": {},
+   "aa_sequences": {}
+  },
+  "NODE_0000171": {
+   "aa_muts": {}
+  },
+  "NODE_0000172": {
+   "aa_muts": {}
+  },
+  "NODE_0000173": {
+   "aa_muts": {}
+  },
+  "NODE_0000174": {
+   "aa_muts": {}
+  },
+  "NODE_0000175": {
+   "aa_muts": {}
+  },
+  "NODE_0000176": {
+   "aa_muts": {}
+  },
+  "NODE_0000177": {
+   "aa_muts": {}
+  },
+  "NODE_0000178": {
+   "aa_muts": {}
+  },
+  "NODE_0000179": {
+   "aa_muts": {}
+  },
+  "NODE_0000180": {
+   "aa_muts": {}
+  },
+  "NODE_0000181": {
+   "aa_muts": {}
+  },
+  "NODE_0000182": {
+   "aa_muts": {}
+  },
+  "NODE_0000183": {
+   "aa_muts": {}
+  },
+  "NODE_0000184": {
+   "aa_muts": {}
+  },
+  "U02085|A/Fort_Monmouth/1/1947": {
+   "aa_muts": {}
+  },
+  "U08903|A/NWS/1933": {
+   "aa_muts": {}
+  },
+  "U08904|A/WS/1933": {
+   "aa_muts": {}
+  },
+  "V01088|A/Puerto_Rico/8/1934": {
+   "aa_muts": {}
+  },
+  "Z54286|A/Mongolia/231/85": {
+   "aa_muts": {}
+  },
+  "Z54287|A/Mongolia/153/88": {
+   "aa_muts": {}
+  }
+ }
+}
